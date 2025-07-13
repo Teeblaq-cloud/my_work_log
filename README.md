@@ -102,7 +102,7 @@ This worklog reflects my journey from foundational concepts to real, working pro
 
 📫 **Email:** olaifatimileyin2017@gmail.com   
 🌐 **Portfolio (coming soon):** [yourportfolio.com]()  
-🧑‍💻 **GitHub:** [github.com/olaifatimileyin](https://github.com/olaifatimileyin)
+🧑‍💻 **GitHub:** [github.com/[olaifatimileyin](https://github.com/Teeblaq-cloud)
 
 ---
 
