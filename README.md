@@ -45,19 +45,18 @@ This worklog reflects my journey from foundational concepts to real, working pro
 > A clean, responsive portfolio built with HTML, CSS, and JavaScript  
 > ✅ Mobile-first design  
 > ✅ Smooth scroll and interactive navigation  
-> ✅ Live Preview: [Link here]()
+
 
 ### 2. **Weather Dashboard (API Project)**
 > A dynamic web app that fetches real-time weather data using a public API  
 > ✅ API integration (OpenWeatherMap)  
 > ✅ DOM manipulation & error handling  
-> ✅ GitHub Repo: [Link here]()
 
 ### 3. **Full Stack CRUD App**
 > A basic Create-Read-Update-Delete app using Node.js, Express, and vanilla JS  
 > ✅ Server-side routing  
 > ✅ Form handling & dynamic rendering  
-> ✅ GitHub Repo: [Link here]()
+
 
 ---
 
